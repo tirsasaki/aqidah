@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "Halo guys"
+date:   2025-01-08 16:52:10 +0700
+categories: jekyll update
+---
+Saat ini saya membuat website statis
