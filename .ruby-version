@@ -1,1 +1,1 @@
-echo "3.0.0" > .ruby-version
+echo "2.7.7" > .ruby-version
